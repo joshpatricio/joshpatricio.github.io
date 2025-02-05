@@ -1,0 +1,49 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+  }
+  
+  
+  h1 {
+    color: darkblue;
+  }
+  
+  
+  p, 
+  li {
+    font-size: 18px;
+  }
+  
+  
+  a {
+    text-decoration: none;
+  }
+
+  #banner {
+    text-align: center;
+    background-color: orange;
+    margin: 50px;
+    padding: 100px;
+  }
+
+  #banner img {
+    width: 500px;
+    height: 500px;
+  }
+
+  .bold {
+    font-weight: bold;
+  }
+
+  body {
+    background-color: rgb(243, 217, 199);
+  }
+
+  .center {
+    text-align: center;
+  }
+
+  .center ul {
+    list-style-position: inside;
+    display: inline-block;
+    text-align: left;
+  }
